@@ -9,10 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@headlessui/vue": "^1.7.2",
+    "@heroicons/vue": "^2.0.11",
     "vue": "^3.2.37"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.1.0",
+    "autoprefixer": "^10.4.12",
     "vite": "^3.1.0"
   }
 }
